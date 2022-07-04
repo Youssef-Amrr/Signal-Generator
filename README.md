@@ -24,4 +24,4 @@ d. Expanding the signal : expanding value.
 e. Compressing the signal:compressing value
 f.None
 
-5.Display the new signal in time domain.
+5. Display the new signal in time domain.
